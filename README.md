@@ -1,6 +1,6 @@
-# use popcorn
+# The Use Popcorn
 
-One of project by using React.js
+Main project in Jonas's Ultimate react cource
 
 <!-- # Getting Started with Create React App
 
