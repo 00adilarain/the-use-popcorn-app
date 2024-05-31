@@ -1,6 +1,6 @@
 # The Use Popcorn
 
-Main project in Jonas's Ultimate react cource
+One of project in Jonas's Ultimate react cource.
 
 <!-- # Getting Started with Create React App
 
